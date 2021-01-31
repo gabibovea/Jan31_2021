@@ -1,1 +1,2 @@
 added some more here to myFile
+more stuff added locally to myFile2
